@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "CXCommonTool.h"
 
 FOUNDATION_EXPORT double CXCommonKitVersionNumber;
 FOUNDATION_EXPORT const unsigned char CXCommonKitVersionString[];
