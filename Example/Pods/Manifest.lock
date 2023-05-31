@@ -1,0 +1,16 @@
+PODS:
+  - CXCommonKit (0.1.0)
+
+DEPENDENCIES:
+  - CXCommonKit (from `../`)
+
+EXTERNAL SOURCES:
+  CXCommonKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CXCommonKit: e36c99f0676464eb883c3146b6f7b64e701b0cc4
+
+PODFILE CHECKSUM: 5c2e49a426f38e96bf46b0e13ed36904272d6e16
+
+COCOAPODS: 1.11.3
